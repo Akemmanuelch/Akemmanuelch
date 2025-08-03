@@ -1,217 +1,110 @@
-<p align="center">
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/Akemmanuelch/emmanuelaka-assets/main/security-logo.png" width="40" />
+  <b>Hi, I'm Emmanuel Aka</b> ✨
+</h1>
 
- <img src="https://user-images.githubusercontent.com/59398782/135726097-3fa32eb1-cbd5-4992-b89d-bfa17083919e.gif" width="100%">
-
-</p>
-
- 
-
-<h1 align="center"><b>Hi, I'm Emmanuel!</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
- 
-
-<p align="center">
-
- <a href="https://github.com/Blvck199">
-
-   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=1000&center=true&vCenter=true&width=600&height=100&lines=DevOps+Engineer;Cloud+Automation+Specialist;Cybersecurity+Professional;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG">
-
- </a>
-
-</p>
-
- 
-
-<p align="center">
-
- <a href="https://github.com/Blvck199"><img src="https://img.shields.io/badge/Developer-blue?style=for-the-badge&logo=github" alt="Programmer Badge"></a>
-
- <a href="https://www.linkedin.com/in/macpiusegelege/"><img src="https://img.shields.io/badge/Cybersecurity_Professional-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"></a>
-
-</p>
-
- 
+<section style="background:#f0f4ff;padding:20px;border-radius:12px;box-shadow:0 2px 6px rgba(0,0,0,0.1);margin-top:20px;">
+  <h3 align="center" style="color:#0a2540;font-size:1.6em;"></h3>
+  <p align="center" style="font-weight:bold;font-size:1.1em;color:#1f2937;margin:0 10px;">
+    A product-savvy cybersecurity analyst bridging the gap between compliance, automation, and user experience.
+  </p>
+  <p align="center" style="margin:8px 10px;font-size:1em;color:#374151;">
+    With a foundation in mechanical engineering and years spent building cloud-native tools, I operate at the intersection of risk governance, security policy, and intuitive UX.
+  </p>
+  <ul style="max-width:700px;margin:auto;color:#111827;font-size:0.95em;">
+    <li>⚙️ Architect of lightweight GRC systems and vendor risk programs</li>
+    <li>🔐 Defender of IAM and Zero Trust principles, from Azure to endpoints</li>
+    <li>🚀 Builder of automated workflows and dashboards that empower secure product launches</li>
+    <li>📊 Translator of regulatory chaos into actionable stories for agile teams</li>
+  </ul>
+  <p align="center" style="font-size:1em;color:#1f2937;margin-top:12px;">
+    <strong>Whether it's embedding compliance into sprints or reducing alert fatigue through automation, I focus on making security usable, scalable, and actually helpful.</strong>
+  </p>
+</section>
 
 <p align="center">
-
- <img src="https://komarev.com/ghpvc/?username=Blvck199&style=flat-square&color=blue" alt="Profile Views">
-
+  <a href="https://github.com/Akemmanuelch">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=27&duration=3000&pause=1000&center=true&vCenter=true&width=700&height=60&lines=Cybersecurity+Analyst+%7C+Product+Strategist;Risk+%26+Compliance+%7C+IAM+%7C+Cloud+Security;Secure+UX+%7C+Risk+Automation+%7C+Cloud+Governance" alt="Typing SVG">
+  </a>
 </p>
 
- 
+<p align="center">
+  <a href="https://github.com/Akemmanuelch"><img src="https://img.shields.io/badge/Cybersecurity%20%26%20Product-blue?style=for-the-badge&logo=github" alt="GitHub Badge"></a>
+  <a href="https://www.linkedin.com/in/emmanuelaka"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Akemmanuelch&style=flat-square&color=blue" alt="Profile Views">
+</p>
 
 ---
-
- 
 
 <h2 align="center">📜 Certifications</h2>
 
- 
-
 <p align="center">
-
- <a href="https://www.coursera.org/account/accomplishments/professional-cert/8XBKRLGBDM3E"><img src="https://img.shields.io/badge/Google_Cybersecurity-blue?style=for-the-badge&logo=google" alt="Google Cybersecurity Badge"></a>
-
- <a href="https://www.coursera.org/account/accomplishments/verify/GFHYJT4JA6FR"><img src="https://img.shields.io/badge/Foundations_of_Cybersecurity-blue?style=for-the-badge&logo=coursera" alt="Foundations of Cybersecurity Badge"></a>
-
- <a href="https://www.coursera.org/account/accomplishments/verify/DMYUQDRUY8KP"><img src="https://img.shields.io/badge/Automate_Cybersecurity_Tasks_with_Python-blue?style=for-the-badge&logo=python" alt="Python Cybersecurity Badge"></a>
-
+  <img src="https://img.shields.io/badge/Security%2B-blue?style=for-the-badge&logo=comptia" alt="Security+ Badge">
+  <img src="https://img.shields.io/badge/AZ-900-blue?style=for-the-badge&logo=microsoftazure" alt="AZ-900 Badge">
+  <img src="https://img.shields.io/badge/SC-900-blue?style=for-the-badge&logo=microsoftazure" alt="SC-900 Badge">
+  <img src="https://img.shields.io/badge/PMP-blue?style=for-the-badge&logo=projectmanagement" alt="PMP Badge">
+  <img src="https://img.shields.io/badge/PSM_I-blue?style=for-the-badge&logo=scrum" alt="PSM I Badge">
 </p>
-
-<p align="center">
-
- <a href="https://www.coursera.org/account/accomplishments/verify/6ZXJN62FJM2U"><img src="https://img.shields.io/badge/Play_It_Safe:_Manage_Security_Risks-blue?style=for-the-badge&logo=linux" alt="Linux Security Badge"></a>
-
- <a href="https://www.coursera.org/account/accomplishments/verify/H5NTXJWHRCBJ"><img src="https://img.shields.io/badge/Assets_Threats_and_Vulnerabilities-blue?style=for-the-badge&logo=cybersecurity" alt="Cybersecurity Badge"></a>
-
- <a href="https://www.coursera.org/account/accomplishments/verify/HRLD42DNDRZT"><img src="https://img.shields.io/badge/Tools_of_the_Trade:_Linux_and_SQL-blue?style=for-the-badge&logo=sql" alt="SQL Badge"></a>
-
-</p>
-
- 
 
 ---
-
- 
 
 <h2 align="center">💼 Technical Projects</h2>
 
- 
-
 <p align="left">
-
- 🚀 <a href="https://github.com/Blvck199/DATAEXTRACTS"><strong>Automated Invoice Processing System</strong></a> <br>
-
- Developed a Python solution to automate invoice data extraction, connect it to SQL databases, and upload to financial data pages. This project improved processing speed and accuracy, streamlining financial operations significantly.
-
+  🔒 <a href="https://github.com/Akemmanuelch/GRC-Strategy-for-Client"><strong>GRC Strategy for Client</strong></a><br>
+  Designed and implemented a GRC strategy tailored to a mid-sized organization, aligning risk management processes with business goals.
 </p>
 
 <p align="left">
-
- 🔒 <a href="https://github.com/Blvck199/Powershell/"><strong>PowerShell - JWipe (Disk Wiping Utility)</strong></a> <br>
-
- Created a PowerShell-based disk wiping utility for secure data deletion, ensuring compliance with data protection regulations.
-
+  ⚡ <a href="https://github.com/Akemmanuelch/Business-Continuity-and-Third-Party-Risk-Assessment-for-SecureTech-Cloud-Services"><strong>Business Continuity and Third Party Risk Assessment</strong></a><br>
+  Evaluated cloud vendor risk exposure and resilience strategies; provided tactical and operational mitigation recommendations.
 </p>
 
 <p align="left">
-
- 📚 <a href="https://github.com/joshmadakor1/Algorithms-Practice"><strong>Data Structures & Algorithms Practice</strong></a> <br>
-
- Practice repository for data structures and algorithms, focusing on problem-solving and code optimization.
-
+  🔐 <a href="https://github.com/Akemmanuelch/Securetech-Grc-Compliance-Report"><strong>SecureTech GRC Compliance Report</strong></a><br>
+  Comprehensive reporting framework covering compliance across IAM, asset management, and cloud security for SaaS environments.
 </p>
-
-<p align="left">
-
- 🔐 <a href="https://github.com/Blvck199/password-strength-checker"><strong>Password Strength Checker</strong></a> <br>
-
- A React-based application for evaluating and displaying password strength with real-time visual feedback and security tips.
-
-</p>
-
- 
 
 ---
-
- 
 
 <h2 align="center">🛠️ Skills</h2>
 
- 
-
 <p align="center">
-
- <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-
- <img src="https://img.shields.io/badge/Bash-%23000000.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
-
- <img src="https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins">
-
- <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-
- <img src="https://img.shields.io/badge/Ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible">
-
- <img src="https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
-
+  <img src="https://img.shields.io/badge/GRC_Frameworks-(PCI_DSS%2C_GDPR%2C_NIST)-blue?style=for-the-badge" alt="GRC Frameworks">
+  <img src="https://img.shields.io/badge/Cloud-Azure%2C_AWS-blue?style=for-the-badge&logo=azure" alt="Cloud">
+  <img src="https://img.shields.io/badge/Endpoint_Policy-Microsoft%20Purview-blue?style=for-the-badge&logo=microsoft" alt="Purview">
+  <img src="https://img.shields.io/badge/Firewall-PaloAlto-blue?style=for-the-badge&logo=paloaltonetworks" alt="Palo Alto">
+  <img src="https://img.shields.io/badge/DevOps-CI%2FCD%2C_GitHub-blue?style=for-the-badge&logo=github" alt="DevOps">
+  <img src="https://img.shields.io/badge/Data_Analytics-PowerBI%2C_Mixpanel-blue?style=for-the-badge&logo=powerbi" alt="Analytics">
 </p>
 
- 
-
 ---
-
- 
 
 <h2 align="center">🎓 Education</h2>
 
- 
-
 <p align="center">
-
- <strong>Master of Engineering in Mechanical Engineering</strong> - Concordia University, 2022<br>
-
- <strong>Bachelor of Science in Mechanical Engineering</strong> - Landmark university, 2017
-
+  <strong>Master of Engineering in Mechanical Engineering</strong> - Concordia University, 2022<br>
+  <strong>Bachelor of Engineering in Mechanical Engineering</strong> - Landmark University, 2017
 </p>
 
- 
-
 ---
-
- 
 
 <h2 align="center">📊 GitHub Stats</h2>
 
- 
-
 <div align="center">
-
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Blvck199&theme=highcontrast&hide_border=true" alt="GitHub Streak Stats" />
-
- <img src="https://github-readme-stats.vercel.app/api?username=Blvck199&show_icons=true&theme=highcontrast&hide_border=true" alt="GitHub Stats" />
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akemmanuelch&theme=react&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Akemmanuelch&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
 </div>
 
- 
-
 ---
 
- 
-
-<h2 align="center">🤳 Connect with me</h2>
-
- 
+<h2 align="center">🤝 Let's Connect</h2>
 
 <p align="center">
-
- <a href="https://x.com/lilcrucifix">
-
-   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter">
-
- </a>
-
- <a href="https://www.linkedin.com/in/macpiusegelege">
-
-   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-
- </a>
-
- <a href="https://www.instagram.com/_el_tio_1/">
-
-   <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram">
-
- </a>
-
-</p>
-
- 
-
----
-
- 
-
-<p align="center">
-
- <img src="https://user-images.githubusercontent.com/59398782/135726131-760a29a3-934a-4c29-b758-f319cfbcf55e.gif" width="100%">
-
+  <a href="mailto:emmaaka.ch@gmail.com"><img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/emmanuelaka"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="tel:+14384640558"><img src="https://img.shields.io/badge/Phone-4384640558-blue?style=for-the-badge&logo=phone" alt="Phone"></a>
 </p>
