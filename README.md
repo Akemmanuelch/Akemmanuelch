@@ -5,7 +5,7 @@
 <section style="background:#f0f4ff;padding:20px;border-radius:12px;box-shadow:0 2px 6px rgba(0,0,0,0.1);margin-top:20px;">
   <h3 align="center" style="color:#0a2540;font-size:1.6em;"> Who Am I?</h3>
   <p align="center" style="font-weight:bold;font-size:1.1em;color:#1f2937;margin:0 10px;">
-    Hi, I'm Emmanuel Aka — a product-savvy cybersecurity analyst bridging the gap between compliance, automation, and user experience.
+  A product-savvy cybersecurity analyst bridging the gap between compliance, automation, and user experience.
   </p>
   <p align="center" style="margin:8px 10px;font-size:1em;color:#374151;">
     With a foundation in mechanical engineering and years spent building cloud-native tools, I operate at the intersection of risk governance, security policy, and intuitive UX.
