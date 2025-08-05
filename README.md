@@ -4,15 +4,15 @@
 </h1>
 
 <section style="background:#f0f4ff;padding:20px;border-radius:12px;box-shadow:0 2px 6px rgba(0,0,0,0.1);margin-top:20px;">
-  <h3 align="center" style="color:#0a2540;font-size:1.6em;"></h3>
+  <h3 align="center" style="color:#0a2540;font-size:1.6em;"> Who Am I?</h3>
   <p align="center" style="font-weight:bold;font-size:1.1em;color:#1f2937;margin:0 10px;">
-    A product-savvy cybersecurity analyst bridging the gap between compliance, automation, and user experience.
+    Hi, I'm Emmanuel Aka — a product-savvy cybersecurity analyst bridging the gap between compliance, automation, and user experience.
   </p>
   <p align="center" style="margin:8px 10px;font-size:1em;color:#374151;">
     With a foundation in mechanical engineering and years spent building cloud-native tools, I operate at the intersection of risk governance, security policy, and intuitive UX.
   </p>
   <ul style="max-width:700px;margin:auto;color:#111827;font-size:0.95em;">
-    <li>⚙️ Architect of lightweight GRC systems and vendor risk programs</li>
+    <li>⚙️ Architect of GRC systems and vendor risk programs</li>
     <li>🔐 Defender of IAM and Zero Trust principles, from Azure to endpoints</li>
     <li>🚀 Builder of automated workflows and dashboards that empower secure product launches</li>
     <li>📊 Translator of regulatory chaos into actionable stories for agile teams</li>
@@ -53,22 +53,37 @@
 
 <h2 align="center">💼 Technical Projects</h2>
 
+<h3>🔒 GRC & Compliance</h3>
 <p align="left">
-  🔒 <a href="https://github.com/Akemmanuelch/GRC-Strategy-for-Client"><strong>GRC Strategy for Client</strong></a><br>
+  <a href="https://github.com/Akemmanuelch/GRC-Strategy-for-Client"><strong>GRC Strategy for Client</strong></a><br>
   Designed and implemented a GRC strategy tailored to a mid-sized organization, aligning risk management processes with business goals.
 </p>
-
 <p align="left">
-  ⚡ <a href="https://github.com/Akemmanuelch/Business-Continuity-and-Third-Party-Risk-Assessment-for-SecureTech-Cloud-Services"><strong>Business Continuity and Third Party Risk Assessment</strong></a><br>
+  <a href="https://github.com/Akemmanuelch/Business-Continuity-and-Third-Party-Risk-Assessment-for-SecureTech-Cloud-Services"><strong>Business Continuity and Third Party Risk Assessment</strong></a><br>
   Evaluated cloud vendor risk exposure and resilience strategies; provided tactical and operational mitigation recommendations.
 </p>
-
 <p align="left">
-  🔐 <a href="https://github.com/Akemmanuelch/Securetech-Grc-Compliance-Report"><strong>SecureTech GRC Compliance Report</strong></a><br>
+  <a href="https://github.com/Akemmanuelch/Securetech-Grc-Compliance-Report"><strong>SecureTech GRC Compliance Report</strong></a><br>
   Comprehensive reporting framework covering compliance across IAM, asset management, and cloud security for SaaS environments.
 </p>
 
----
+<h3>🖥️ Security Operations & Infrastructure</h3>
+<p align="left">
+  <a href="https://github.com/Akemmanuelch/Windows-Firewall-Config"><strong>Windows Firewall Config</strong></a><br>
+  Configured Windows Defender Firewall to allow FTP server access, including inbound rules, connectivity verification, and troubleshooting.
+</p>
+<p align="left">
+  <a href="https://github.com/Akemmanuelch/Windows-RBAC-Permissions"><strong>Windows RBAC Permissions</strong></a><br>
+  Implemented Role-Based Access Control by creating users, assigning folder permissions, and managing rights.
+</p>
+<p align="left">
+  <a href="https://github.com/Akemmanuelch/Network-Traffic-Capture-Wireshark"><strong>Network Traffic Capture (Wireshark)</strong></a><br>
+  Captured and analyzed FTP traffic using Wireshark to identify plaintext credential exposure and demonstrate TLS mitigation.
+</p>
+<p align="left">
+  <a href="https://github.com/Akemmanuelch/Nessus-Vulnerability-Scan"><strong>Nessus Vulnerability Scan</strong></a><br>
+  Performed network vulnerability scanning and reporting using Nessus Essentials.
+</p>
 
 <h2 align="center">🛠️ Skills</h2>
 
@@ -92,7 +107,7 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center"></h2>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akemmanuelch&theme=react&hide_border=true" alt="GitHub Streak Stats" />
