@@ -1,5 +1,4 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/Akemmanuelch/emmanuelaka-assets/main/" width="40" />
   <b>Hi, I'm Emmanuel Aka</b> ✨
 </h1>
 
@@ -69,6 +68,13 @@
 
 <h3>🖥️ Security Operations & Infrastructure</h3>
 <p align="left">
+  <a href="https://github.com/Akemmanuelch/Network-Traffic-Capture-Wireshark"><strong>Network Traffic Capture (Wireshark)</strong></a><br>
+  Captured and analyzed FTP traffic using Wireshark to identify plaintext credential exposure and demonstrate TLS mitigation.
+</p>
+<p align="left">
+  <a href="https://github.com/Akemmanuelch/Nessus-Vulnerability-Scan"><strong>Nessus Vulnerability Scan</strong></a><br>
+  Performed network vulnerability scanning and reporting using Nessus Essentials.
+<p align="left">
   <a href="https://github.com/Akemmanuelch/Windows-Firewall-Config"><strong>Windows Firewall Config</strong></a><br>
   Configured Windows Defender Firewall to allow FTP server access, including inbound rules, connectivity verification, and troubleshooting.
 </p>
@@ -76,14 +82,7 @@
   <a href="https://github.com/Akemmanuelch/Windows-RBAC-Permissions"><strong>Windows RBAC Permissions</strong></a><br>
   Implemented Role-Based Access Control by creating users, assigning folder permissions, and managing rights.
 </p>
-<p align="left">
-  <a href="https://github.com/Akemmanuelch/Network-Traffic-Capture-Wireshark"><strong>Network Traffic Capture (Wireshark)</strong></a><br>
-  Captured and analyzed FTP traffic using Wireshark to identify plaintext credential exposure and demonstrate TLS mitigation.
-</p>
-<p align="left">
-  <a href="https://github.com/Akemmanuelch/Nessus-Vulnerability-Scan"><strong>Nessus Vulnerability Scan</strong></a><br>
-  Performed network vulnerability scanning and reporting using Nessus Essentials.
-</p>
+
 
 <h2 align="center">🛠️ Skills</h2>
 
@@ -108,11 +107,6 @@
 ---
 
 <h2 align="center"></h2>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akemmanuelch&theme=react&hide_border=true" alt="GitHub Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Akemmanuelch&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
-</div>
 
 ---
 
