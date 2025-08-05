@@ -62,7 +62,7 @@
   Evaluated cloud vendor risk exposure and resilience strategies; provided tactical and operational mitigation recommendations.
 </p>
 <p align="left">
-  <a href="https://github.com/Akemmanuelch/SecureTech-Grc-Compliance-Report"><strong>SecureTech GRC Compliance Report</strong></a><br>
+  <a href="https:/[/github.com/Akemmanuelch/SecureTech-Grc-Compliance-Report](https://github.com/Akemmanuelch/SecureTech-Grc-Compliance-Report.)"><strong>SecureTech GRC Compliance Report</strong></a><br>
   Comprehensive reporting framework covering compliance across IAM, asset management, and cloud security for SaaS environments.
 </p>
 
