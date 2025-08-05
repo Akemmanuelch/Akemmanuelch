@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/Akemmanuelch/emmanuelaka-assets/main/security-logo.png" width="40" />
+  <img src="https://raw.githubusercontent.com/Akemmanuelch/emmanuelaka-assets/main/" width="40" />
   <b>Hi, I'm Emmanuel Aka</b> ✨
 </h1>
 
